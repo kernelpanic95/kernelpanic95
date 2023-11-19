@@ -7,9 +7,12 @@
 
 📚 sometimes i write on [noraneko](https://noraneko.vercel.app)
 
+💭 planning to make a portfolio website
+
 📫 you can reach me here: [github](https://github.com/kernelpanic95), [instagram](https://instagram.com/kernelpanic.sh)
 
-💭 planning to make a portfolio website
+☕ [buy me a coffee ❤️](https://ko-fi.com/kernelpanic95)
+
 
 <!--
 **kernelpanic95/kernelpanic95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

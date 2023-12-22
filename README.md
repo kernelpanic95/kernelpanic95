@@ -1,15 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono&weight=700&size=25&duration=2000&pause=1000&color=F7BF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=hello+world!;my+name+is+marco...;but+you+can+call+me;kernelpanic)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono&weight=700&size=25&duration=2000&pause=1000&color=F7BF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=i+love+computers;programming;linux;and+music)](https://git.io/typing-svg)
-
-
-🙂 currently working and studying for Linux Certifications
+🌱 currently working and studying for Linux Certifications
 
 📚 sometimes i write on [noraneko](https://noraneko.vercel.app)
 
 💭 planning to make a portfolio website
 
-📫 you can reach me here: [github](https://github.com/kernelpanic95), [instagram](https://instagram.com/kernelpanic.sh)
+📫 you can reach me here: [github](https://github.com/kernelpanic95), [instagram](https://instagram.com/kernelpanic.sh), [email](marcocardone29@gmail.com)
 
 ☕ [buy me a coffee ❤️](https://ko-fi.com/kernelpanic95)
 

@@ -6,7 +6,7 @@
 
 💭 planning to make a portfolio website
 
-📫 you can reach me here: [github](https://github.com/kernelpanic95), [instagram](https://instagram.com/kernelpanic.sh), [email](marcocardone29@gmail.com)
+📫 you can reach me here: [github](https://github.com/kernelpanic95), [instagram](https://instagram.com/kernelpanic.sh)
 
 ☕ [buy me a coffee ❤️](https://ko-fi.com/kernelpanic95)
 
